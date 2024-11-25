@@ -69,4 +69,7 @@ input{
     input{
         width: 170px;
     }
+    input::placeholder{
+        font-size: 10px;
+    }
 }
